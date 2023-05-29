@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+
+body{
+    background-image: linear-gradient(to left, #2D2D2A, #353831, #38423B);
+    
+}
+main{
+    background-image: linear-gradient(to bottom, #3F5E5A, #20FC8F);
+    
+    margin: auto;
+    width: 300px;
+    border-radius: 15px;
+    padding: 50px;
+    text-align: center;
+}
+
+.text{
+    font-family: 'Ubuntu Mono', monospace;
+}
